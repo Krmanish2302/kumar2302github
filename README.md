@@ -12,15 +12,6 @@
   <img src="https://img.shields.io/badge/deep%20learning-08c?style=flat-square" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumar2302github&show_icons=true&theme=default" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumar2302github&theme=default" width="400"/>
-</p>
-
----
-
 ## 🚀 About Me
 
 - Passionate about **solving real-world problems** using AI & ML, specializing in privacy, retrieval, document automation, and content understanding.
