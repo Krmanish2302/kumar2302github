@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Krmanish2302"><img src="https://komarev.com/ghpvc/?username=Krmanish2302&style=for-the-badge" alt="Profile views" /></a>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge&logo=graphql&logoColor=white" alt="LangGraph" />
   <img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge" alt="RAG" />
   <img src="https://img.shields.io/badge/NLP-5B21B6?style=for-the-badge" alt="NLP" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-0F766E?style=for-the-badge" alt="Computer Vision" />
 </p>
 
 ## 🚀 About Me
@@ -17,19 +17,32 @@
 - AI/ML engineer focused on **Generative AI, retrieval-augmented generation, agentic workflows, multimodal AI, and document intelligence**.
 - I enjoy building systems that connect LLMs with real data using **RAG pipelines, tool calling, FastAPI backends, and evaluation-driven iteration**.
 - My work spans **privacy-aware legal document analysis, transcript-based question answering, multimodal extraction, and intelligent chat systems**.
-- Open to **AI Engineer, ML Engineer, NLP Engineer, and Generative AI** opportunities.
+- Open to **AI Engineer, ML Engineer, NLP Engineer, Computer Vision, and Generative AI** opportunities.
 
 ***
 
 ## ⚒️ Skills & Technologies
 
-| Area | Stack |
-|------|-------|
-| **Languages** | Python, SQL, C, C++ |
-| **ML / DL** | PyTorch, TensorFlow, Keras, Scikit-learn, Transformers |
-| **Generative AI** | RAG, LangChain, LangGraph, MCP, Prompt Engineering, LLM Evaluation |
-| **NLP / CV** | BERT, LayoutLM, NER, OCR, OpenCV, Multimodal Transformers |
-| **Backend / Deployment** | FastAPI, Streamlit, Docker, Git, MySQL |
+### Languages
+`Python` `SQL` `C` `C++`
+
+### ML / DL Frameworks & Libraries
+`PyTorch` `TensorFlow` `Keras` `Scikit-learn` `NumPy` `Pandas` `OpenCV` `Hugging Face`
+
+### Machine Learning & Deep Learning
+`Neural Networks` `DNN` `CNN` `RNN` `LSTM` `ResNet` `Regression` `Decision Trees` `Ensemble Models` `Clustering` `Feature Engineering` `Data Analysis` `Transfer Learning` `Distributed Training`
+
+### Generative AI & Agentic AI
+`LLMs` `VLMs` `LMMs` `GPT` `Llama` `Qwen` `Mistral` `DeepSeek` `BERT` `LayoutLMv3` `AI Agents` `Tool Calling` `RAG` `Information Retrieval` `Question Answering` `Semantic Search` `Vector Databases` `LLM-as-a-Judge` `Evaluation Frameworks` `Fine-tuning` `PEFT` `Prompt Tuning` `LoRA` `MCP` `LangChain` `LangGraph`
+
+### NLP
+`NER` `Transformers` `Embeddings` `Word2Vec` `GloVe` `Sentence Transformers`
+
+### Computer Vision
+`OCR` `Image Processing` `OpenCV` `Multimodal Transformers`
+
+### Backend / APIs / Deployment
+`FastAPI` `Streamlit` `Docker` `Git` `MySQL` `Vector Databases` `OpenAI API` `Gemini API` `Claude API`
 
 ***
 
